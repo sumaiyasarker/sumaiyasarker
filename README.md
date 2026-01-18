@@ -21,7 +21,7 @@
 * Machine Learning & Deep Learning
 * Computer Vision
 * Healthcare AI
-
+* Federated Learning & Privacy-Preserving AI
 ---
 
 ## 🛠️ Skills
@@ -29,14 +29,8 @@
 * **Python**
 * Scikit-learn, TensorFlow/Keras, PyTorch (basic)
 * Flower, OpenCV
+* Figma,canva
 * Git, GitHub, Google Colab
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumaiyasarker\&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiyasarker\&layout=compact)
 
 ---
 
