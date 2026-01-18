@@ -1,7 +1,7 @@
 # 👋 Hi, I’m **Sumaiya Sarker Shimla**
 
 🎓 **BSc in Computer Science & Engineering**
-🔬 **Machine Learning | Deep Learning | Federated Learning**
+🔬 **Machine Learning | Deep Learning 
 📍 Bangladesh
 
 ---
@@ -23,18 +23,10 @@
 ## 🛠️ Skills
 
 * **Python**
-* Scikit-learn, TensorFlow/Keras, PyTorch (basic)
+* Scikit-learn, TensorFlow/Keras, PyTorch 
 * Flower, OpenCV
+* Figma,Canva
 * Git, GitHub, Google Colab
 
----
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumaiyasarker\&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiyasarker\&layout=compact)
-
----
-
-📫 **GitHub:** [https://github.com/sumaiyasarker](https://github.com/sumaiyasarker)
 
