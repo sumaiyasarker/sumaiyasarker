@@ -30,7 +30,7 @@ Machine Learning | Deep Learning | Federated Learning
 * **Python**
 * Scikit-learn, TensorFlow/Keras, PyTorch (basic)
 * Flower, OpenCV
-* Figma,canva
+* Figma,Canva
 * Git, GitHub, Google Colab
 
 ---
