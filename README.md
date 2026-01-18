@@ -1,15 +1,17 @@
-# 👋 Hi, I’m **Sumaiya Sarker Shimla**
+# 👋 Hi, I’m **Sumaiya Sarkar Shimla**
 
-🎓 **MSc in Computer Science (Ongoing) — AIUB**
-🎓 **BSc in Computer Science & Engineering**
-🔬 **Machine Learning | Deep Learning | Federated Learning**
-📍 Bangladesh
+
+
+**MSc in Computer Science (Ongoing)** — AIUB
+**BSc in Computer Science & Engineering**
+
+Research Interests:
+Machine Learning | Deep Learning | Federated Learning
 
 ---
 
 ## 🔭 Current Focus
 
-* Federated Learning using **Flower**
 * Research-oriented ML/DL projects
 * Building a strong GitHub research portfolio
 
@@ -17,7 +19,6 @@
 
 ## 🧠 Interests
 
-* Federated Learning & Privacy-Preserving AI
 * Machine Learning & Deep Learning
 * Computer Vision
 * Healthcare AI
