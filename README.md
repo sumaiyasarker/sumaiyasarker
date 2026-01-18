@@ -1,38 +1,52 @@
-# 👋 Hi, I’m **Sumaiya Sarkar Shimla**
-
-
+# Sumaiya Sarker Shimla
 
 **MSc in Computer Science (Ongoing)** — AIUB
 **BSc in Computer Science & Engineering**
-
-Research Interests:
-Machine Learning | Deep Learning | Federated Learning
+Bangladesh
 
 ---
 
-## 🔭 Current Focus
+## Research Focus
 
+* Machine Learning
+* Deep Learning
+* Federated Learning
+
+---
+
+## Current Work
+
+* Federated Learning experiments using Flower
 * Research-oriented ML/DL projects
-* Building a strong GitHub research portfolio
+* Building a reproducible GitHub research portfolio
 
 ---
 
-## 🧠 Interests
+## Technical Skills
 
-* Machine Learning & Deep Learning
-* Computer Vision
-* Healthcare AI
-* Federated Learning & Privacy-Preserving AI
+**Programming:** Python
+
+**Machine Learning / Deep Learning:**
+Scikit-learn, TensorFlow, Keras, PyTorch (basic)
+
+**Federated Learning:**
+Flower
+
+**Tools:**
+Git, GitHub, Google Colab
+
+**Computer Vision:**
+OpenCV
+
 ---
 
-## 🛠️ Skills
+## GitHub Statistics
 
-* **Python**
-* Scikit-learn, TensorFlow/Keras, PyTorch (basic)
-* Flower, OpenCV
-* Figma,Canva
-* Git, GitHub, Google Colab
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumaiyasarker\&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiyasarker\&layout=compact)
 
 ---
 
-📫 **GitHub:** [https://github.com/sumaiyasarker](https://github.com/sumaiyasarker)
+## Contact
+
+GitHub: [https://github.com/sumaiyasarker](https://github.com/sumaiyasarker)
