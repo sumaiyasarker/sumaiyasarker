@@ -3,8 +3,7 @@
 * **MSc in Computer Science (Ongoing)** — AIUB
 * **BSc in Computer Science & Engineering**
 
-
-Bangladesh
+  **Bangladesh**
 
 ---
 
@@ -13,14 +12,6 @@ Bangladesh
 * Machine Learning
 * Deep Learning
 * Federated Learning
-
----
-
-## Current Work
-
-* Federated Learning experiments using Flower
-* Research-oriented ML/DL projects
-* Building a reproducible GitHub research portfolio
 
 ---
 
@@ -41,14 +32,6 @@ Git, GitHub, Google Colab
 OpenCV
 
 ---
-
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumaiyasarker\&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiyasarker\&layout=compact)
-
----
-
 ## Contact
 
 GitHub: [https://github.com/sumaiyasarker](https://github.com/sumaiyasarker)
