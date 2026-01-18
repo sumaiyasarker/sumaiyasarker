@@ -17,10 +17,10 @@
 
 ## Technical Skills
 
-**Programming:** Python
+**Programming:** Python,C++
 
 **Machine Learning / Deep Learning:**
-Scikit-learn, TensorFlow, Keras, PyTorch (basic)
+Scikit-learn, TensorFlow, Keras, PyTorch 
 
 **Federated Learning:**
 Flower
