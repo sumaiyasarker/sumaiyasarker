@@ -1,16 +1,40 @@
-# Hi there 👋
+# 👋 Hi, I’m **Sumaiya Sarker Shimla**
 
+🎓 **BSc in Computer Science & Engineering**
+🔬 **Machine Learning | Deep Learning | Federated Learning**
+📍 Bangladesh
 
-**sumaiyasarker/sumaiyasarker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔭 Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+* Research-oriented ML/DL projects
+* Building a strong GitHub research portfolio
+
+---
+
+## 🧠 Interests
+* Machine Learning & Deep Learning
+* Computer Vision
+* Healthcare AI
+
+---
+
+## 🛠️ Skills
+
+* **Python**
+* Scikit-learn, TensorFlow/Keras, PyTorch (basic)
+* Flower, OpenCV
+* Git, GitHub, Google Colab
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumaiyasarker\&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiyasarker\&layout=compact)
+
+---
+
+📫 **GitHub:** [https://github.com/sumaiyasarker](https://github.com/sumaiyasarker)
 
