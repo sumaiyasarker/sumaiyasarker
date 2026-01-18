@@ -1,7 +1,7 @@
 # Sumaiya Sarker Shimla
 
 **MSc in Computer Science (Ongoing)** — AIUB
-**BSc in Computer Science & Engineering**
+-**BSc in Computer Science & Engineering**
 Bangladesh
 
 ---
