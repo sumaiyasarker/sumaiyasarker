@@ -1,6 +1,5 @@
 # Sumaiya Sarkar Shimla
 
-* **MSc in Computer Science (Ongoing)** — AIUB
 * **BSc in Computer Science & Engineering**
 
   **Bangladesh**
